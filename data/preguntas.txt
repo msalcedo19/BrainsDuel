@@ -1,0 +1,48 @@
+DEPORTES;¿Cuál es el equipo con más campeonatos ganados de la NBA?;Lakers;Bulls;Celtics;Magic;Celtics
+ENTRETENIMIENTO;¿Cuántos hermanos tiene Ron Weasley?;4;7;6;3;6
+CIENCIA;¿Quién es el encargado por el color verde de las plantas?;Mitocondrias;Celulosa;Clorofila;Citoplasma;Clorofila
+HISTORIA;¿Hacia dónde se dirigía Cristóbal Colón cuando descubrió América?;India;África;América;Oriente medio;India
+GEOGRAFIA;¿Cuál es la capital de Venezuela?;Bogotá;Maracaibo;Caracas;Lima;Caracas
+ARTE;¿Quién pintó el techo de la Capilla Sixtina?;Leonardo DaVinci;Donatello;Rafael Sanzio;Michelangelo Buonarroti;Michelangelo Buonarroti
+DEPORTES;¿Dónde se realizará el mundial FIFA del 2022?;Rusia;Japón;Catar;Australia;Catar
+ENTRETENIMIENTO;¿Quién escribió "La hojarasca"?;Yves Billon;Mario Vargas Llosa;Plinio Apuleyo Mendoza;Gabriel García Márquez;Gabriel García Márquez
+CIENCIA;¿Cuál es el voltaje usual de las tomas de corriente colombianas?;120V;220V;1.65V;150V;120V
+HISTORIA;¿En qué año se terminó la segunda guerra mundial?;1945;1914;1918;1939;1945
+GEOGRAFIA;¿Cuál es el único país asiático cuya religión principal es el cristianismo?;Filipinas;India;China;Japón;Filipinas
+ARTE;¿A qué periodo perteneció Frédéric Chopin?;Clasicismo;Impresionismo;Romantisismo;Barroco;Romantisismo
+DEPORTES;¿Cuál de los siguientes deportes no tiene un reloj?;Fútbol;Hockey;Basquetbol;Voleibol;Voleibol
+ENTRETENIMIENTO;¿Cual personaje de marvel no usa ninguna herramienta en batalla?;Hulk;Thor;Capitán américa;Ojo de Halcón;Hulk
+CIENCIA;¿La taquicardia es un término médico para cuál síntoma?;Frecuencia cardíaca lenta;Frecuencia cardíaca rápida;Ausencia de frecuencia cardíaca;Frecuencia cardíaca interrumpida;Frecuencia cardíaca rápida
+HISTORIA;¿En la monarquía tradicional, quién asciende al trono tras la muerte del monarca?;Hermano mayor;Hijo menor;Cónyuge del monarca;Hijo mayor;Hijo mayor
+GEOGRAFIA;¿Cuál es el océano más grande?;Pacífico;Atlántico;Índico;Antártico;Pacífico
+ARTE;¿Cuál es el lenguaje principal usado para nombrar los pasos en el ballet?;Latín;Italiano;Inglés;Francés;Francés
+DEPORTES;¿Cuál de los siguientes deportes no es un deporte olímpico?;Vela;Patinaje;Golf;Esgrima;Patinaje
+ENTRETENIMIENTO;Arthur Conan Doyle creó a cuál personaje?;Sherlock Holmes;Hercules Poirot;Dick Tracy;Auguste Dupin;Sherlock Holmes
+CIENCIA;¿En qué momento ocurre la fermentación?;Presencia de O2;Ausencia de H2O;Ausencia de O2;Presencia de Fe;Ausencia de O2
+HISTORIA;¿Cuál personaje bíblico fue salvado de la muerte cuando era un niño por la hija del faraón?;Jesús;José;Moisés;Abraham;Moisés
+GEOGRAFIA;¿Cuándo están en primavera en europa, en qué estación están en australia?;verano;invierno;primavera;otoño;otoño
+ARTE;Cuando se usa la clave de sol, la nota sol se ubica sobre cuál línea del pentagrama?;segunda;tercera;cuarta;quinta;segunda 
+DEPORTES;¿En el voleibol, cuántos jugadores deben estar e la cancha simultáneamente?;8;5;6;7;6
+ENTRETENIMIENTO;¿Cuál alienígena se quería comer al gato de la familia con la cual vivía?;Paul;Alf;E.T;Ninguno de los anteriores;Alf
+CIENCIA;¿Cuál es el único animal terrestre que no puede saltar?;Gallina;Pingüino;Elefante;Cocodrilo;Elefante
+HISTORIA;¿Quién fundó Bogotá?;Cristobal Colón;Simón Bolivar;Gonzalo Jiménez de Quesada;Ninguno de los anteriores;Gonzalo Jiménez de Quesada
+GEOGRAFIA;¿En qué continente se encuentra el país Bután?;Europa;Asia;África;Oceanía;Asia
+ARTE;¿Qué parte del cuerpo perdió Van Gogh?;Oreja;Mano;Ojo;Brazo;Oreja
+DEPORTES;¿Cuántos hoyos tiene un campo de golf?;12;18;15;9;18
+ENTRETENIMIENTO;¿Cuál es el nombre de la mamá de Batman?;Bárbara;Selina;Lois;Martha;Martha
+CIENCIA;¿Cómo se llaman las cavidades que conforman el corazón?;Vasos sanguíneos;Arterias coronarias;Aurículas y ventrículos;Válvulas;Aurículas y ventrículos
+HISTORIA;¿Cuál filósofo nació primero?;Tales de Mileto;Aristóteles;Platón;Sócrates;Tales de Mileto
+GEOGRAFIA;¿Cuál es el monte más alto en Japón?;Monte Koya;Monte Rokko;Monte Osore;Monte Fuji;Monte Fuji
+ARTE;¿Cuál es el "séptimo arte"?;Teatro;Música;Cine;Artes plásticas;Cine
+DEPORTES;¿Cada cuanto tiempo se realizan los juegos olímpicos de verano?;2 años;4 años;Anualmente;2 veces al año;4 años
+ENTRETENIMIENTO;¿Quién fue la protagonista de la película "Mujer bonita"?;Catherine Zeta Jones;Salma Hayek;Julia Roberts;Nicole Kidman;Julia Roberts
+CIENCIA;¿Cuál es la hormona responsable por estimular la reacción de lucha o huída?;Adenina;Citosina;Adrenalina;Calcitonina;Adrenalina
+HISTORIA;¿Para los romanos, qué era el vomitorium?;Un lugar para vomitar;Una entrada a los estadios;Un lugar con mal olor;Una forma de ser;Una entrada a los estadios
+GEOGRAFIA;¿En qué continente está el río Nilo?;Asia;Europa;America;África;África
+ARTE;¿Qué colores se deben mezclar para obtener el morado?;Rojo y azul;Rosado y café;Amarillo y verde;No se puede crear;Rojo y azul
+DEPORTES;La FITA es la federación que regula las normas de cuál deporte?;Fútbol;Arquería;Taekwondo;Natación;Arquería
+ENTRETENIMIENTO;¿Cómo murió John Lennon?;Suicidio;Sobredosis;Disparo de un fan;Cancer de pulmón;Disparo de un fan
+CIENCIA;¿Cómo se llama el fenómeno en el cual la luz pasa por un medio a una velocidad diferente?;Refracción;Reflexión;Reducción;Brillo;Refracción
+HISTORIA;¿En qué año se fundó la Universidad de los Andes?;1944;1945;1949;1948;1948
+GEOGRAFIA;¿Cuál es la capital de Turquía?;Sofía;Ankara;Estambúl;Adana;Ankara
+ARTE;¿Para qué se usan las candilejas en el teatro?;Efectos de sonido diferentes;Crear una cortina de luz entre la escena y la platea;No tienen ningún uso;Se usa solo como escenografía;Crear una cortina de luz entre la escena y la platea
